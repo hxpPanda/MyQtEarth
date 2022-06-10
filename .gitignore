@@ -38,5 +38,6 @@ temp/*
 *.sln
 *.sdf
 *.suo
+*.opensdf
 *.vcxproj.filters
 *.vcxproj.user
