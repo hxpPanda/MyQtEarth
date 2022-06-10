@@ -35,7 +35,6 @@
 bin/*
 temp/*
 
-*.sln
 *.sdf
 *.suo
 *.opensdf
