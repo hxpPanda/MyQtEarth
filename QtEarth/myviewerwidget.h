@@ -1,23 +1,3 @@
-//#ifndef MYVIEWERWIDGET_H
-//#define MYVIEWERWIDGET_H
-//
-//#include <QtWidgets/QMainWindow>
-//#include "ui_myviewerwidget.h"
-//
-//class MyViewerWidget : public QMainWindow
-//{
-//	Q_OBJECT
-//
-//public:
-//	MyViewerWidget(QWidget *parent = 0);
-//	~MyViewerWidget();
-//
-//private:
-//	Ui::MyViewerWidgetClass ui;
-//};
-//
-//#endif // MYVIEWERWIDGET_H
-
 #ifndef MYVIEWERWIDGET_H
 #define MYVIEWERWIDGET_H
 

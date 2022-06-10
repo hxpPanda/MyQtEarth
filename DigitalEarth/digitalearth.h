@@ -1,23 +1,3 @@
-//#ifndef DigitalEarthEARTH_H
-//#define DigitalEarthEARTH_H
-//
-//#include <QtWidgets/QMainWindow>
-//#include "ui_DigitalEarthearth.h"
-//
-//class DigitalEarthEarth : public QMainWindow
-//{
-//	Q_OBJECT
-//
-//public:
-//	DigitalEarthEarth(QWidget *parent = 0);
-//	~DigitalEarthEarth();
-//
-//private:
-//	Ui::DigitalEarthEarthClass ui;
-//};
-//
-//#endif // DigitalEarthEARTH_H
-
 #pragma once
 
 #include <QtWidgets/QMainWindow>

@@ -1,16 +1,3 @@
-//#include "DigitalEarthearth.h"
-//
-//DigitalEarthEarth::DigitalEarthEarth(QWidget *parent)
-//	: QMainWindow(parent)
-//{
-//	ui.setupUi(this);
-//}
-//
-//DigitalEarthEarth::~DigitalEarthEarth()
-//{
-//
-//}
-
 #include "digitalearth.h"
 #include <osg/TexGen>
 DigitalEarth::DigitalEarth(QWidget *parent)
